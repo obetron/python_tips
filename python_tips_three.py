@@ -7,6 +7,10 @@ f.close()
 words = file_contents.split(' ')
 word_count = len(words)
 print(word_count)
+"""
+OUTPUT:
+3
+"""
 
 #for all the time use a file closing it is became a big job.
 with open('test.txt', 'r') as f:
@@ -16,3 +20,7 @@ with open('test.txt', 'r') as f:
 words = file_contents.split(' ')
 word_count = len(words)
 print(word_count)
+"""
+OUTPUT:
+3
+"""
