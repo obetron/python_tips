@@ -14,5 +14,5 @@ total = num3 + num4
 
 print(total)
 
-#for the result the output become more readable with format it like;
-print(f"{total:,}")
+#for the result the output become more readable with format the it like
+print(f'{total:,}')
