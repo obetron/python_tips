@@ -9,7 +9,6 @@ else:
 print(x)
 
 #this code written in one line like this
-
 x = 1 if condition else 0
 
 print(x)
