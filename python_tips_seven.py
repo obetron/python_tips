@@ -55,3 +55,8 @@ for key, value in person5_info.items():
     setattr(person5, key, value)
 for key in person5_info.keys():
     print(getattr(person5, key))
+"""
+OUTPUT:
+Asil
+Basaran
+"""
