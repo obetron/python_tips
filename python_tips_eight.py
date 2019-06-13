@@ -24,3 +24,11 @@ password1 = getpass('Password:')
 print('logging in...')
 print('Username1: ', username1)
 print('Password1: ', password1)
+"""
+OUTPUT:
+Username:Eren
+Password:
+logging in...
+Username1:  Eren
+Password1:  Password
+"""
